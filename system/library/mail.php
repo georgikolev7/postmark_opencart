@@ -100,7 +100,7 @@ class Mail {
 			$key = ($html) ? 'TextBody' : 'HtmlBody';
 			
 			$message = [
-			  'To' => 'petkov@windowslive.com',
+			  'To' => $this->to,
 			  'From' => $this->from,
 			  'TrackOpens' => true,
 			  'Subject' => $this->subject,
