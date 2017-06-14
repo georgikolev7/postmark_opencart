@@ -1,4 +1,4 @@
-# postmark_opencart
+# Postmark PHP integration for Opencart 2.1.0.2 (without Composer)
 Postmark PHP integration for Opencart 2.1.0.2
 
 This is a integration of Postmark Official PHP Library for OpenCart 2.1.0.2, that can be use without <a href="https://getcomposer.org/">Composer</a>
